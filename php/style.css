@@ -1,0 +1,27 @@
+#out{
+    width:70%;
+    height: 100vh;
+    margin-left: 15%;
+}
+#add{
+  width:70%;
+  margin-left:15%;
+  height:10vh;
+}
+#add input, button{
+  margin-top: 5vh
+}
+.pickBox{
+  width: 50%;
+  margin-left: 20%;
+  background-color: rgb(250, 151, 151);
+  height: 80px;
+  border-radius: 20px;
+  border:thin solid;
+  transition: 0.5s;
+}
+.pickBox form{
+  text-align: center;
+}
+
+
